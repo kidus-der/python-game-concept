@@ -12,6 +12,4 @@ class Player:
         self.mastery = mastery
         self.x_variable = x_variable
 
-    def attack_opps(self, hit_opps):
-
-        
+    #def attack_opps(self, hit_opps):
